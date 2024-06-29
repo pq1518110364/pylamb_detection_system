@@ -1,0 +1,27 @@
+[
+  {
+    "app_name": "classes",
+    "models": [
+      {
+        "model_name": "Classes",
+        "verbose": "班级",
+        "searchs": [
+          "name"
+        ],
+        "filters": [
+          "name"
+        ]
+      },
+      {
+        "model_name": "Student",
+        "verbose": "学生",
+        "searchs": [
+          "sex"
+        ],
+        "filters": [
+          "sex"
+        ]
+      }
+    ]
+  }
+]
